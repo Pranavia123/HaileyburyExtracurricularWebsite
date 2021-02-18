@@ -1,1 +1,2 @@
 # HaileyburyExtracurricularWebsite
+Website project for extracurricular activities
